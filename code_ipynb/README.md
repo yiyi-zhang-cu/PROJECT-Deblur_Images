@@ -53,6 +53,8 @@ Details about the two models can be found in `model_log.txt`.
 
 Note that you need to log in your **LionMail@Columbia** to get access to the models.
 
+The directory name of models should be `model`.
+
 ## Example of Result
 From left to right: Sharp, blurred, deblurred
 
