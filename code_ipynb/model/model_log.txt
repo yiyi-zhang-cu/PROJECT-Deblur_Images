@@ -1,0 +1,2 @@
+VGG19 epoch_num=22 out/2 lambda_A=100000 batch_size=2 model_name=Deblur_1525567719 PSNR of testing data: 26.76598097523393
+VGG16 epoch_num=22(10) out/2 lambda_A=100000 batch_size=2 model_name=Deblur_1525573504 PSNR of testing data: 25.05647367150842
