@@ -1,7 +1,8 @@
 # APMAE4990 PROJECT - Deblur Images
 + **Projec Title**: Deblur Images  
-  + Project Report：[Jupyter Notebook](./code_ipynb/main.ipynb )  
-  + Web App：[.pythonanywhere.com]()   
+  + Prensentation Slides: [E4990_Presentation.pdf](E4990_Presentation.pdf)
+  + Project Report：[Jupyter Notebook](./code_ipynb/main.ipynb )   
+  + Web App：[.pythonanywhere.com]()   
 + **Group Members**:  
   + Yilin Lyu	(yl3832)
   + Yiyi Zhang (yz3280)
