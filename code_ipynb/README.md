@@ -18,7 +18,9 @@ Shan Guan  *sg3506*
 
 ## What is inside this folder?
 
-This file contains the **dataset organization**，**model building**, **model training**,**comparations and evaluations**,and **testing**. All baisc components of the project. 
+This file contains the **dataset organization**，**model building**, **model training**, **comparations and evaluations**, and **model testing** and all baisc components of the project. 
+
+You could find step-by-step instructions and results in `main.ipynb` 
 
 Detailed about implementation of another model could be found in `keras_basic_GAN`
 
