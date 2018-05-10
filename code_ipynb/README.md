@@ -1,28 +1,6 @@
-# What is this repo ?
+# APMAE4990 PROJECT - Deblur Images  
 
-This repository is for the final project of APMA4990
-
-Using GAN for image Deblurring. 
-
-Original paper [DeBlur GANs](https://arxiv.org/pdf/1711.07064.pdf). 
-
-
-By:
-Yilin Lyu	 *yl3832*
-
-Yiyi Zhang *yz3280*
-
-Liangliang Huang *lh2863*
-
-Shan Guan  *sg3506*
-
-## What is inside this folder?
-
-This file contains the **dataset organization**，**model building**, **model training**, **comparations and evaluations**, and **model testing** and all baisc components of the project. 
-
-You could find step-by-step instructions and results in `main.ipynb` 
-
-Detailed about implementation of another model could be found in `keras_basic_GAN`
+[`keras_basic_GAN`](keras_basic_GAN) contains the implementation of the approach introduced in [Deep Generative Filter for Motion Deblurring](https://arxiv.org/pdf/1709.03481.pdf). [**`main.ipynb`**](main.ipynb) contains the implementation of the other approach introduced in [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/pdf/1711.07064.pdf) and the evaluation of two approaches.  
 
 ## Dataset:
 
@@ -35,7 +13,7 @@ python organize_dataset.py --dir_in=GOPRO_Large --dir_out=images
 
 ## Deblur customized images:
 
-Save the images you want to deblur in a folder called `own` inside the `images` folder
+Save the images you want to deblur in the [`images/own`](images/own) folder.
 
 ```
 python main.py --customized=1 --is_train=0 --model_name=./model/your_model_name
@@ -67,15 +45,4 @@ From left to right: Sharp, blurred, deblurred
 
 ![image](https://github.com/yl3829/deblur_tf/blob/master/examples/7200_0.png)
 
-See examples in `examples`.
-
-
-## Statement of contributions:
-
-Yilin Lyu: Understanding the novel Deblur GAN model and implemented in Tensorflow, trained and tested. 
-
-Yiyi Zhang:  Model training testing and evaluating, hyperparameters searching, web application development. 
-
-LIangliang Huang: Understanding the other basic GAN model for deblurring and implemented in Keras,  SQL utilization.    
-
-Shan Guan: Understanding the other basic GAN model for deblurring and implemented in Keras ,SQL utilization.  
+See examples in [`examples`](examples).
