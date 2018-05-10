@@ -1,6 +1,6 @@
 # APMAE4990 PROJECT - Deblur Images  
 
-The folder [**`keras_basic_GAN`**](keras_basic_GAN) contains the implementation of the approach introduced in [Deep Generative Filter for Motion Deblurring](https://arxiv.org/pdf/1709.03481.pdf). The jupyter notebook [**`main.ipynb`**](main.ipynb) contains the implementation of the other approach introduced in [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/pdf/1711.07064.pdf) and the evaluation of two approaches.  
+The folder [**`keras_basic_GAN`**](keras_basic_GAN) contains the implementation of the approach introduced in [Deep Generative Filter for Motion Deblurring](https://arxiv.org/pdf/1709.03481.pdf). The jupyter notebook [**`main.ipynb`**](main.ipynb) contains the implementation of the other approach introduced in [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/pdf/1711.07064.pdf) and the evaluation of the two approaches.  
 
 ## Dataset:
 
