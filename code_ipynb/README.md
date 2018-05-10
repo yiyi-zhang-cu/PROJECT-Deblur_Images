@@ -16,6 +16,11 @@ Liangliang Huang *lh2863*
 
 Shan Guan  *sg3506*
 
+## What is inside this folder?
+
+This file contains the **dataset organization**，**model building**, **model training**,**comparations and evaluations**,and **testing**. All baisc components of the project. 
+
+Detailed about implementation of another model could be found in `keras_basic_GAN`
 
 ## Dataset:
 
@@ -61,6 +66,7 @@ From left to right: Sharp, blurred, deblurred
 ![image](https://github.com/yl3829/deblur_tf/blob/master/examples/7200_0.png)
 
 See examples in `examples`.
+
 
 ## Statement of contributions:
 
