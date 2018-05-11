@@ -1,5 +1,5 @@
 # APMAE4990 PROJECT - Deblur Images  
-The jupyter notebook [**`main.ipynb`**](main.ipynb) contains the implementation of the other approach introduced in [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/pdf/1711.07064.pdf) and the evaluation of the two approaches.  
+The jupyter notebook [**`main.ipynb`**](main.ipynb) contains the implementation of the other approach introduced in [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/pdf/1711.07064.pdf) and the evaluation of the approach.  
 
 ## Dataset:
 
